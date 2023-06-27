@@ -46,4 +46,17 @@ python evaluate.py
 ## Results:
 Detects whether the food is recommended or not according to the parameters entered.
 
+![Screenshot 2023-06-13 145007](https://github.com/lalithaaradhini2002/A-Novel-time-aware-food-recommender-system-using-deep-learning-and-graph-clustering/assets/113698687/61b9015f-34e4-4b26-b87d-2dea6fa5f881)
+
+## Acknowledgements:
+We acknowledge the authors of the original datasets used in training and evaluation.
+Special thanks to the open-source community for their valuable contributions.
+
+## Contact:
+For any inquiries or questions, please feel free to reach out to us at the following contact information:
+Email: lalithaaradhinik@gmail.com
+GitHub: https://github.com/lalithaaradhini2002
+LinkedIn: https://www.linkedin.com/in/priyanandinipasupuleti/
+We welcome any feedback, suggestions, or collaboration opportunities related to this project. Don't hesitate to get in touch with us, and we'll be happy to assist you. Thank you for your interest and support!
+
 
