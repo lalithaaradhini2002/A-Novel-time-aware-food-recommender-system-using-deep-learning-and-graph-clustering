@@ -30,7 +30,7 @@ Unlike conventional methods, our model takes into account users' communities whe
 - xlwt (version X.X.X)
 
 ## USAGE
-- git clone
+- git clone https://github.com/lalithaaradhini2002/A-Novel-time-aware-food-recommender-system-using-deep-learning-and-graph-clustering/tree/main
 
 ## Install the required dependencies:
 pip install -r requirements.txt
